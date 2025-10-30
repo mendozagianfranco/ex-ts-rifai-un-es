@@ -42,3 +42,8 @@ Questo repo serve per:
 - Applicare TypeScript in un’applicazione React per vedere l’integrazione reale.  
 - Rafforzare le basi: tipizzazione, logica applicativa, UI tipizzata.
 
+--- 
+
+## Backend Mock
+
+Questo progetto utilizza un backend mock pronto all’uso fornito da [Boolean IT / resources](https://github.com/boolean-it/resources). Non è necessario creare un database locale: basta eseguire il mock server per avere le API attive.
